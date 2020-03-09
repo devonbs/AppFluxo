@@ -1,0 +1,10 @@
+E:\workspace\AppFluxo\src\main\java\br\com\devon\dao\FluxoDAO.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\bo\FluxoBO.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\entity\Produto.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\entity\Solicitacao.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\entity\Pessoa.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\services\AppFluxoService.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\entity\Status.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\conexao\ConexaoDAO.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\conexao\HibernateUtil.java
+E:\workspace\AppFluxo\src\main\java\br\com\devon\dto\ProdutosAprovacaoDTO.java
