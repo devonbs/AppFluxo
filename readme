@@ -1,0 +1,6 @@
+Algumas resalvas sobre estas implementações:
+A insersão de solicitações funciona normalmente (sem a mascara monetária para o campo de valor)
+A lista de aprovação/reprovação também está funcionando, exceto ao realizar a reprovação, não está solicitando a observação 
+A listagem de pedidos não está realizando a filtragem adequada entre Aprovados/Reprovados
+
+Utilizei o Tomcat 7, Angular 8, e o Java 8 junto com o Eclipse 
